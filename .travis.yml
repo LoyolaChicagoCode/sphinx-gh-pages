@@ -17,3 +17,5 @@ install:
 - pip list
 script:
 - make html
+- make latexpdf
+- make epub
