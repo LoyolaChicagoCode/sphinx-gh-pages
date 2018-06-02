@@ -1,3 +1,9 @@
+commit bdb0e4cabf0fbcdc08232a48c086934f23ba1bf2
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 15:35:58 2018 -0500
+
+    move to LoyolaChicagoCode
+
 commit a085b256e20d2f6c249cf6226babf040482cace2
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 14:00:12 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 13:45:44 2018 -0500
 
     typo and cleanup of gh-pages cherrypicking logic
-
-commit 3ce4899bb96913f89d0fa468fd821ba6a4781fa5
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 13:36:26 2018 -0500
-
-    include build artifacts for PDF/e-books
