@@ -17,4 +17,4 @@ install:
 - pip install sphinx_bootstrap_theme
 - pip list
 script:
-- GH_USER=gkthiruvathukal GH_REPO=sphinx-gh-pages "./gh-pages.sh" 
+- GH_USER=LoyolaChicagoCode GH_REPO=sphinx-gh-pages "./gh-pages.sh" 
