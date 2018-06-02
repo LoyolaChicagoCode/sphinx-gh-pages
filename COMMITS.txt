@@ -1,3 +1,9 @@
+commit a3f1fc5e9410a942c907f22799480b956f9ce0a3
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 11:15:57 2018 -0500
+
+    use make!
+
 commit 6b56fc6c2f64b60d97f1021f45a05b15ac5d4f14
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 11:10:23 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 10:56:24 2018 -0500
 
     add some sample chapters
-
-commit 4ac39d8085e1506bddf90d462b24dc5e15a38dbb
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Tue May 29 16:08:04 2018 -0500
-
-    add latexmk support

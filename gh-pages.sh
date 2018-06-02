@@ -11,7 +11,7 @@ git reset -q deploy/gh-pages
 git checkout master rst build.sh
 git reset -q HEAD
 rm -rf build
-./build.sh -a
+make html latexpdf epub
 rm -rf source/*
 mkdir -p download
 mv -f build/html/* ./
