@@ -10,7 +10,7 @@ git fetch deploy
 git reset -q deploy/gh-pages
 
 # Cherrypicked checkout from master
-git checkout master rst build.sh
+git checkout master Makefile source
 git reset -q HEAD
 
 # Build with Sphinx (HTML, e-book, and PDF)
@@ -18,7 +18,7 @@ rm -rf build
 make html latexpdf epub
 
 # No longer need sources
-rm -rf source/*
+rm -rf Makefile source
 
 # Add additionl artifacts to /download (if produced)
 mkdir -p download
