@@ -8,6 +8,7 @@ Welcome to Sphinx GitHub Pages's documentation!
 
 This is an exemplar showing how to deploy Sphinx sites to gh-pages (from Travis).
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -15,7 +16,7 @@ This is an exemplar showing how to deploy Sphinx sites to gh-pages (from Travis)
    ch01
    ch02
    ch03
-
+   ch04
 
 Indices and tables
 ==================
