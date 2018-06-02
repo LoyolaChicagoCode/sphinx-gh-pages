@@ -15,8 +15,8 @@ make html latexpdf epub
 rm -rf source/*
 mkdir -p download
 mv -f build/html/* ./
-mv -f build/epub/*.epub ./download/
-mv -f build/latexpdf/*.pdf ./download/
+mv -f $(find build -name *.epub) ./download/
+mv -f $(find build -name *.pdf) ./download/
 touch .nojekyll
 git log master -5 > COMMITS.txt
 git add -A >& /dev/null
