@@ -1,3 +1,9 @@
+commit 106ce4c6a6d315a926911b16658ac546ccca7eb8
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 13:12:06 2018 -0500
+
+    more careful building of site
+
 commit 10cec04519c52415243f209d276f3f6cacc5a104
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 11:30:10 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 11:10:23 2018 -0500
 
     another chapter
-
-commit 5d34df29493314a9b50ab6c8b96375734d3dd102
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 11:04:31 2018 -0500
-
-    add deploy logic
