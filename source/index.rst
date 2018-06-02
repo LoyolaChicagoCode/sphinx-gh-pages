@@ -12,6 +12,8 @@ This is an exemplar showing how to deploy Sphinx sites to gh-pages (from Travis)
    :maxdepth: 2
    :caption: Contents:
 
+   ch01
+   ch02
 
 
 Indices and tables
