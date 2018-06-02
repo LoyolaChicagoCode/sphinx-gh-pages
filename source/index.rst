@@ -3,15 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sphinx GitHub Pages's documentation!
-===============================================
-
-This is an exemplar showing how to deploy Sphinx sites to gh-pages (from Travis).
-
+Welcome to Sphinx GitHub Pages
+===============================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    ch01
    ch02
