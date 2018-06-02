@@ -17,6 +17,4 @@ install:
 - pip install sphinx_bootstrap_theme
 - pip list
 script:
-- make html
-- make latexpdf
-- make epub
+- GH_USER=gkthiruvathukal GH_REPO=sphinx-gh-pages "./gh-pages.sh" 
