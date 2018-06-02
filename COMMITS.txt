@@ -1,3 +1,15 @@
+commit e0861f2e53ba17a366b0c2bcc8e6d1cf9b36f185
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 13:50:55 2018 -0500
+
+    update gh-pages
+
+commit 88296087f10620c723184b8534b0696a43f5b7af
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 13:50:21 2018 -0500
+
+    remove text from index
+
 commit 962c53845860f0185fb8a661f7958a773e5b07d9
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 13:45:44 2018 -0500
@@ -15,15 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 13:27:26 2018 -0500
 
     bootstrap support
-
-commit 6e943b1cd7680d33b2e2f508f123116a178c8bed
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 13:15:44 2018 -0500
-
-    oops: forgot the command termintor for find
-
-commit 106ce4c6a6d315a926911b16658ac546ccca7eb8
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 13:12:06 2018 -0500
-
-    more careful building of site
