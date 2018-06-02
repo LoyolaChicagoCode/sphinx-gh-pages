@@ -1,3 +1,9 @@
+commit 962c53845860f0185fb8a661f7958a773e5b07d9
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 13:45:44 2018 -0500
+
+    typo and cleanup of gh-pages cherrypicking logic
+
 commit 3ce4899bb96913f89d0fa468fd821ba6a4781fa5
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 13:36:26 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 13:12:06 2018 -0500
 
     more careful building of site
-
-commit 10cec04519c52415243f209d276f3f6cacc5a104
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 11:30:10 2018 -0500
-
-    move build products in a project-independent way
