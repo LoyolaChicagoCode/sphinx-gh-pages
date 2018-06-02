@@ -23,10 +23,10 @@ rm -rf source/*
 # Add additionl artifacts to /download (if produced)
 mkdir -p download
 [ -d build/html ] && mv -f build/html/* ./
-find build -name *.epub -exec cp {} ./download/ -quit
-find build -name *.epub -exec cp {} ./download/book.epub -quit
-find build -name *.pdf -exec cp {} ./download/ -quit
-find build -name *.pdf -exec cp {} ./download/book.pdf -quit
+find build -name *.epub -exec cp {} ./download/ \; -quit
+find build -name *.epub -exec cp {} ./download/book.epub \; -quit
+find build -name *.pdf -exec cp {} ./download/ \; -quit
+find build -name *.pdf -exec cp {} ./download/book.pdf \; -quit
 touch .nojekyll
 git log master -5 > COMMITS.txt
 git add -A >& /dev/null

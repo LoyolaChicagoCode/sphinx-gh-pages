@@ -1,3 +1,9 @@
+commit 6e943b1cd7680d33b2e2f508f123116a178c8bed
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 13:15:44 2018 -0500
+
+    oops: forgot the command termintor for find
+
 commit 106ce4c6a6d315a926911b16658ac546ccca7eb8
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 13:12:06 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 11:15:57 2018 -0500
 
     use make!
-
-commit 6b56fc6c2f64b60d97f1021f45a05b15ac5d4f14
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 11:10:23 2018 -0500
-
-    another chapter
