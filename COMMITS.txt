@@ -1,3 +1,9 @@
+commit 725b10b6ae4504df442a0e371c75acefad75e5a9
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 11:24:12 2018 -0500
+
+    correction to build products
+
 commit a3f1fc5e9410a942c907f22799480b956f9ce0a3
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 11:15:57 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 11:00:08 2018 -0500
 
     chapter 3 example
-
-commit d64e1d0540271ca14f0dbe7115a47989d1e5056b
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 10:56:24 2018 -0500
-
-    add some sample chapters
