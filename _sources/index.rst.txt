@@ -18,6 +18,12 @@ This is an exemplar showing how to deploy Sphinx sites to gh-pages (from Travis)
    ch03
    ch04
 
+Alternate Formats
+==================
+
+- `Sphinx Book PDF <downloads/SphinxGitHubPages.pdf>`_
+- `Sphinx Book e-book <downloads/SphinxGitHubPages.epub>`_
+
 Indices and tables
 ==================
 
