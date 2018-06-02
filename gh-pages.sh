@@ -8,15 +8,25 @@ git config --global user.name "George K. Thiruvathukal"
 git remote add deploy "https://$GH_TOKEN@github.com/$GH_USER/$GH_REPO.git"
 git fetch deploy
 git reset -q deploy/gh-pages
+
+# Cherrypicked checkout from master
 git checkout master rst build.sh
 git reset -q HEAD
+
+# Build with Sphinx (HTML, e-book, and PDF)
 rm -rf build
 make html latexpdf epub
+
+# No longer need sources
 rm -rf source/*
+
+# Add additionl artifacts to /download (if produced)
 mkdir -p download
-mv -f build/html/* ./
-mv -f $(find build -name *.epub) ./download/
-mv -f $(find build -name *.pdf) ./download/
+[ -d build/html ] && mv -f build/html/* ./
+find build -name *.epub -exec cp {} ./download/ -quit
+find build -name *.epub -exec cp {} ./download/book.epub -quit
+find build -name *.pdf -exec cp {} ./download/ -quit
+find build -name *.pdf -exec cp {} ./download/book.pdf -quit
 touch .nojekyll
 git log master -5 > COMMITS.txt
 git add -A >& /dev/null
