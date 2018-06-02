@@ -14,6 +14,7 @@ This is an exemplar showing how to deploy Sphinx sites to gh-pages (from Travis)
 
    ch01
    ch02
+   ch03
 
 
 Indices and tables
