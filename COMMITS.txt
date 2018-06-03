@@ -1,3 +1,9 @@
+commit aaf227c9f0a8e6c908195b57c7dbd8995f3ef059
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 22:41:32 2018 -0500
+
+    add description to landing page
+
 commit a2cd9312081488c99a2c883e44d2e769d32424df
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 22:35:50 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 14:00:12 2018 -0500
 
     add build status
-
-commit e0861f2e53ba17a366b0c2bcc8e6d1cf9b36f185
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 13:50:55 2018 -0500
-
-    update gh-pages
