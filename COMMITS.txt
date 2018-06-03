@@ -1,3 +1,9 @@
+commit 265b5dc24f692208d61de1e19cd38470b481f97f
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 22:45:36 2018 -0500
+
+    remove ZG references from navbar
+
 commit aaf227c9f0a8e6c908195b57c7dbd8995f3ef059
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 22:41:32 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 15:35:58 2018 -0500
 
     move to LoyolaChicagoCode
-
-commit a085b256e20d2f6c249cf6226babf040482cace2
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 14:00:12 2018 -0500
-
-    add build status
