@@ -1,3 +1,9 @@
+commit a2cd9312081488c99a2c883e44d2e769d32424df
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 22:35:50 2018 -0500
+
+    add summary
+
 commit 4030884bc0ffed9b7285bab47d5ed59acbcff5bc
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 15:48:06 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 13:50:55 2018 -0500
 
     update gh-pages
-
-commit 88296087f10620c723184b8534b0696a43f5b7af
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 13:50:21 2018 -0500
-
-    remove text from index
