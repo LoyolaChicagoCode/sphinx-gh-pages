@@ -1,3 +1,9 @@
+commit 7807c3c093b7d652749ffae51f8b98d9e4b0ad6d
+Author: George K. Thiruvathukal <gkt@cs.luc.edu>
+Date:   Sat Jun 2 22:52:45 2018 -0500
+
+    correct the project name in conf.py
+
 commit 265b5dc24f692208d61de1e19cd38470b481f97f
 Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 22:45:36 2018 -0500
@@ -21,9 +27,3 @@ Author: George K. Thiruvathukal <gkt@cs.luc.edu>
 Date:   Sat Jun 2 15:48:06 2018 -0500
 
     replacing build status URL
-
-commit bdb0e4cabf0fbcdc08232a48c086934f23ba1bf2
-Author: George K. Thiruvathukal <gkt@cs.luc.edu>
-Date:   Sat Jun 2 15:35:58 2018 -0500
-
-    move to LoyolaChicagoCode
