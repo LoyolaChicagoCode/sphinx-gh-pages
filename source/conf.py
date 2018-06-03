@@ -206,8 +206,7 @@ html_theme_options = {
     # Note the "1" or "True" value above as the third argument to indicate
     # an arbitrary url.
     'navbar_links': [
-        ("Zettels", "http://github.com/ZettelGeist/zettels", True),
-        ("ZettelGeist", "http://github.com/ZettelGeist/zettelgeist", True),
+        ("GitHub Page", "http://github.com/LoyolaChicagoCode/sphinx-gh-pages", True)
     ],
 
     # Render the next and previous page links in navbar. (Default: true)
