@@ -6,6 +6,8 @@
 Welcome to Sphinx GitHub Pages
 ===============================
 
+A demo Sphinx project that is uses Sphinx Bootstrap Theme and is automatically deployed on GitHub Pages (via Travis CI).
+
 .. toctree::
    :maxdepth: 2
 
