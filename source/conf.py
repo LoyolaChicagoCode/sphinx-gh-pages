@@ -193,7 +193,7 @@ todo_include_todos = True
 
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': "HOC",
+    'navbar_title': "sphinx-gh-pages",
 
     # Tab name for entire site. (Default: "Site")
     'navbar_site_name': "Site",
